@@ -1,7 +1,7 @@
 
 public class App {
     public String greet() {
-        return "Hello, Jenkins CI!";
+        return "Hello, Jenkins CI Updated!";
     }
 
     public static void main(String[] args) {

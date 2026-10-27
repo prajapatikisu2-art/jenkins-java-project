@@ -6,6 +6,6 @@ public class AppTest {
     @Test
     public void testGreeting() {
         App app = new App();
-        assertEquals("Hello, Jenkins CI!", app.greet());
+        assertEquals("Hello, Jenkins CI Updated!", App.greet());
     }
 }
